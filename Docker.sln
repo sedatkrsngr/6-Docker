@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDocker", "ConsoleDocker\ConsoleDocker.csproj", "{3AED78FA-67E7-44E2-81E3-C34A0A95DB8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcDocker", "MvcDocker\MvcDocker.csproj", "{B81A3D75-5333-479C-A049-09669B7E1998}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcDocker", "MvcDocker\MvcDocker.csproj", "{B81A3D75-5333-479C-A049-09669B7E1998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCDockerVolume", "MVCDockerVolume\MVCDockerVolume.csproj", "{FABA9263-8679-43F7-A7FD-E15E02A4A7F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B81A3D75-5333-479C-A049-09669B7E1998}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B81A3D75-5333-479C-A049-09669B7E1998}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B81A3D75-5333-479C-A049-09669B7E1998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABA9263-8679-43F7-A7FD-E15E02A4A7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABA9263-8679-43F7-A7FD-E15E02A4A7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABA9263-8679-43F7-A7FD-E15E02A4A7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABA9263-8679-43F7-A7FD-E15E02A4A7F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
